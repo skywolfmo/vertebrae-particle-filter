@@ -60,7 +60,7 @@ Here are the thisngs you need to have up and ready before using this script.
 What things you need to install the software and how to install them.
 
 ``` shell
-pip install cv2
+pip install opencv-python
 pip install numpy
 pip install polyroi 
 ```
